@@ -6,7 +6,7 @@
   "scripts": {
     "changeset": "changeset",
     "version": "changeset version",
-    "release": "changeset publish"
+    "publish": "changeset publish"
   },
   "private": true,
   "devDependencies": {
