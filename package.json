@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "changeset": "changeset",
-    "version": "changeset version",
-    "publish": "changeset publish"
+    "changeset:version": "changeset version",
+    "changeset:publish": "changeset publish"
   },
   "private": true,
   "devDependencies": {
