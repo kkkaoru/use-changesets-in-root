@@ -1,5 +1,11 @@
 # use-changesets-in-root
 
+## 1.0.3
+
+### Patch Changes
+
+- [`c4a3bb8`](https://github.com/kkkaoru/use-changesets-in-root/commit/c4a3bb83c93e902c781730203e4769968a17e956) Thanks [@kkkaoru](https://github.com/kkkaoru)! - add a README
+
 ## 1.0.2
 
 ### Patch Changes
